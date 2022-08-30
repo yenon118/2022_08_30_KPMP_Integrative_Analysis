@@ -1,0 +1,12 @@
+/data/
+/output/
+/scripts/log*
+/scripts/*.out
+/scripts/*.log
+
+*/output/
+*/reference/
+*/data/
+*/scripts/log*
+*/scripts/*.out
+*/scripts/*.log
